@@ -5,8 +5,8 @@ import requests
 app = Flask(__name__)
 CORS(app)
 
-API_KEY = "tYfxseHv.sl6InCKPBrjRCBJKdBs6ZvpZhGYLdWdn"
-URL = "https://payload.vextapp.com/hook/EMSPKF800L/catch/PAID"
+API_KEY = # Your API key
+URL = # Your URL
 
 headers = { 
     "Content-Type": "application/json",
